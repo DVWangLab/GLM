@@ -1,0 +1,10 @@
+step 1: load('units_BLA_100.mat')
+        load('units_CA1_pre300.mat')
+        load('units_CA1_pre200.mat')
+        load('units_CA1_pre100.mat')
+        load('units_CA1_100.mat')
+step 2: Run GLM.m
+
+% tested on Windows 11
+% tested on MATLAB R2021a 
+% expected run time ~1 min
